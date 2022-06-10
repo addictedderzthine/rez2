@@ -4,3 +4,4 @@ Console.WriteLine("Hello, World!");
 // test
 // vs rety
 // thinkpad
+// thinkpad2
