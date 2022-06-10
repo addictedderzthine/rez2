@@ -5,3 +5,5 @@ Console.WriteLine("Hello, World!");
 // vs rety
 // thinkpad
 // thinkpad2
+
+// ryzen
